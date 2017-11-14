@@ -4,35 +4,4 @@ Abc:_first_seconf_pl
 Abc:_first_seconf_pl
 Abc:_first_seconf_pl
 Abc:_first_seconf_pl
-Text above should not be marked as error in swissfr_first_second pl
-
-
-from tab_first_second pl
-word. ok ok ok_first_second pl
-word . not not not_first_second pl
-word. ok ok ok_first_second pl
-word . not not not_first_second pl
-word. ok ok ok_first_second pl
-word . not not not_first_second pl
-word. ok ok ok_first_second pl
-word . not not not_first_second pl
-word . not not not_first_second pl
-word. ok ok ok_first_second pl
-word; ok not ok_first_second pl
-word ; not ok not_first_second pl
-word» ok not ok_first_second pl
-word . not not not_first_second pl
-word; ok not ok_first_second pl
-word . not not not_first_second pl
-word ; not ok not_first_second pl
-word. ok ok ok_first_second pl
-
-Running Wild_first_second pl
-Running wild, lost control_first_second pl
-Running Wild_first_second pl
-Feeling gay, reckless too_first_second pl
-Carefree mind, all the time, never blue!_first_second pl
-Always goin, don't know where_first_second pl
-Always showin, I don't care!_first_second pl
-Don't love nobody, it's not worthwhile,_first_second pl
-All alone, runnin’ wild!_first_second pl
+Text above should not be marked as error in swissfr_first_only one not ICE_second pl

@@ -4,35 +4,4 @@ Abc!_first
 Abc?_first
 Abc%_first
 Abc;_first
-Text above should not be marked as error in swissfr_first
-
-
-from tab_first
-word. ok ok ok_first
-word . not not not_first
-word, ok ok ok_first
-word , not not not_first
-word! ok not ok_first
-word ! not ok not_first
-word? ok not ok_first
-word ? not ok not_first
-word: not not ok_first
-word : ok ok not_first
-word; ok not ok_first
-word ; not ok not_first
-word» ok not ok_first
-word » not ok not_first
-«word ok not ok_first
-« word not ok not_first
-word % not_first
-word% ok_first
-
-Running Wild_first
-Running wild, lost control_first
-Running wild, mighty bold_first
-Feeling gay, reckless too_first
-Carefree mind, all the time, never blue!_first
-Always goin, don't know where_first
-Always showin, I don't care!_first
-Don't love nobody, it's not worthwhile,_first
-All alone, runnin’ wild!_first
+Text above should not be marked as error in swissfr_first_only one not ICE
