@@ -1,0 +1,14 @@
+word! ok not ok_pretran
+word ! not ok not_pretran
+word! ok not ok_pretran
+word ! not ok not_pretran
+word ! not ok not_pretran
+word : ok ok not_pretran
+word! ok not ok_pretran
+word ! not ok not_pretran
+word! ok not ok_pretran
+word ! not ok not_pretran
+word! ok not ok_pretran
+word ! not ok not_pretran
+word ! not ok not_pretran
+word! ok not ok_pretran
