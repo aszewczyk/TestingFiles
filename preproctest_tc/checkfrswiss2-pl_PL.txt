@@ -1,5 +1,5 @@
-new«Abc»
-newAbc:
-newtea? or coffee? that is the question
-newAbc %
-newAbc ;
+plnew«Abc»
+plnewAbc:
+plnewtea? or coffee? that is the question
+plnewAbc:
+plnewAbc:
