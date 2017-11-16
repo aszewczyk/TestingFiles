@@ -1,55 +1,10 @@
+reaUNIT scientific advisor, Lord President, President of Earth
+rePlace of origin:Gallifrey
+reGrandparents:The Doctor's grandfather
+reMother:The Doctor's mother
+reFather:The Doctor's father
+reBrother:Irving Braxiatel
 
-ain:
-aThe Doctor, Renegade Time Lords, Prydonians, and 97 more
-a"The Doctor"
-aEnglish
-aEDIT
- 
-aSHARE
-aThe Doctor
-aMain aliases:
-asee list
-aSpecies:
-aTime Lord, Human
-aJob:
-aUNIT scientific advisor, Lord President, President of Earth
-aPlace of origin:
-aGallifrey
-aGrandparents:
-aThe Doctor's grandfather
-aMother:
-aThe Doctor's mother
-aFather:
-aThe Doctor's father
-aBrother:
-aIrving Braxiatel
-aChildren:
-aMiranda Dawkins, Jenny, The Sapling
-aGrandchildren:
-aaSusan Foreman, John, Gillian, Zezanne
-aSpouses:
-aPatience, Scarlette, Elizabeth I, Marilyn Monroe, Cleopatra, River Song
-aIn-laws:
-aAmy Pond, Rory Williams, Henry VIII
-aFirst seen in:
-aAn Unearthly Child
-aAppearances:
-asee list
-aMemorable moment
-a03:13
-aAnother memorable moment
-a01:05
-aBehind the scenes video
-a12:43
-aMore behind the scenes stuff
-a02:58
-aAnother behind the scenes moment
-a03:32
-aIncarnations of the Doctor
-aWidely accepted
-a1 a• a2 a• a3 a• a4 a• a5 a• a6 a• a7 a• a8 a• aWar a• a9 a• a10 a• a11 a• a12
-aMore ambiguous
-aThe Watcher aa• aThe Valeyard a• aMeta-Crisis a• aDream Lord a• aThe Curator
-a"The Doctor" was the main alias used by a renegade Time Lord from Gallifrey who travelled through time and space with various companions in his obsolete and "borrowed" Type 40 TARDIS. aHe was the universe's "greatest defender", having saved the cosmos thousands of times throughout his long life, becoming a great legend across the whole universe.
+rea"The Doctor" was the main alias used by a renegade Time Lord from Gallifrey who travelled through time and space with various companions in his obsolete and "borrowed" Type 40 TARDIS. reaHe was the universe's "greatest defender", having saved the cosmos thousands of times throughout his long life, becoming a great legend across the whole universe.
 
-aThough largely a believer in non-violent conflict resolution, he was, when absolutely necessary, a great warrior. aIndeed, some civilisations in the universe (e.g. the denizens of the Gamma Forests) translated the word doctor as warrior, (TV: A Good Man Goes to War) whilst others saw him as a compassionate benefactor, worthy of their admiration and compassion. a(TV: Last of the Time Lords, The Wedding of River Song)
+reaThough largely a believer in non-violent conflict resolution, he was, when absolutely necessary, a great warrior. reaIndeed, some civilisations in the universe (e.g. the denizens of the Gamma Forests) translated the word doctor as warrior, (TV: A Good Man Goes to War) whilst others saw him as a compassionate benefactor, worthy of their admiration and compassion. rea(TV: Last of the Time Lords, The Wedding of River Song)
