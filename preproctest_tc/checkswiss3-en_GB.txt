@@ -1,14 +1,5 @@
-word! ok not okik
-kikword ! not ok not
-kikiword? ok not ok
-kikiword ? not ok not
-kikiword: not not ok
-kikiword : ok ok not
-kikiword; ok not ok
-kikiword ; not ok not
-kikiword» ok not ok
-kikiword » not ok not
-kiki«word ok not ok
-kiki« word not ok not
-kikiword % not
-kikiword% ok
+newword! ok not ok
+newword ! not ok not
+newwolololololo
+word % not
+word% ok
