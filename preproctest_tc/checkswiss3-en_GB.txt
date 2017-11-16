@@ -1,5 +1,5 @@
 newword! ok not ok
 newword ! not ok not
 newwolololololo
-word % not
-word% ok
+newword % not
+newword% ok
