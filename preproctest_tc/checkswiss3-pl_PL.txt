@@ -1,0 +1,14 @@
+word! ok not okik_ppppppppp
+ppppppppppp_kikword ! not ok not
+pppppppppp_kikiword? ok not ok
+ppppppppppp_kikiword ? not ok not
+pppppppppppp_kikiword: not not ok
+pppppppppp_kikiword? ok not ok
+pppppppppp_kikiword? ok not ok
+ppppppppppp_kikiword ? not ok not
+pppppppppp_kikiword? ok not ok
+ppppppppppp_kikiword ? not ok not
+pppppppppp_kikiword? ok not ok
+kiki« word not ok not_ppppppppppppppppp
+ppppppppppp_kikiword ? not ok not
+pppppppppp_kikiword? ok not ok
