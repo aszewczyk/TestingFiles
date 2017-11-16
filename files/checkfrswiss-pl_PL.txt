@@ -1,38 +1,38 @@
-g«Abc»
-tAbc:
-tAbc!
-tAbc?
-tAbc%
-tAbc;
-tText above should not be marked as error in swissfr
+two_g«Abc»
+two_tAbc:
+two|_tAbc!
+two_tAbc?
+two_tAbc%
+two_tAbc;
+two_tText above should not be marked as error in swissfr
 
 
-tfrom tab
-tword. ok ok ok
-tword . not not not
-tword, ok ok ok
-tword , not not not
-tword! ok not okik_ppppppppp
-tkiki« word not ok not_ppppppppppppppppp
-tword! ok not okik_ppppppppp
-tkiki« word not ok not_ppppppppppppppppp
-tword: not not ok
-tword : ok ok not
-tword! ok not okik_ppppppppp
-tkiki« word not ok not_ppppppppppppppppp
-tword! ok not okik_ppppppppp
-tkiki« word not ok not_ppppppppppppppppp
-tword! ok not okik_ppppppppp
-tkiki« word not ok not_ppppppppppppppppp
-tword % not
-tword% ok
+two_tfrom tab
+two_tword. ok ok ok
+two_tword . not not not
+two_tword, ok ok ok
+two_tword , not not not
+two_tword! ok not okik_ppppppppp
+two_tkiki« word not ok not_ppppppppppppppppp
+two_tword! ok not okik_ppppppppp
+two_tkiki« word not ok not_ppppppppppppppppp
+rwo_tword: not not ok
+two_tword : ok ok not
+two_tword! ok not okik_ppppppppp
+two_tkiki« word not ok not_ppppppppppppppppp
+two_tword! ok not okik_ppppppppp
+two_tkiki« word not ok not_ppppppppppppppppp
+two_tword! ok not okik_ppppppppp
+two_tkiki« word not ok not_ppppppppppppppppp
+two_tword % not
+two_tword% ok
 
-tRunning Wild
-tRunning wild, lost control
-tRunning wild, mighty bold
-tFeeling gay, reckless too
-tCarefree mind, all the time, never blue!
-tAlways goin, don't know where
-tAlways showin, I don't care!
-tDon't love nobody, it's not worthwhile,
-tAll alone, runnin’ wild!
+two_tRunning Wild
+two_tRunning wild, lost control
+two_tRunning wild, mighty bold
+two_tFeeling gay, reckless too
+two_tCarefree mind, all the time, never blue!
+two_tAlways goin, don't know where
+two_tAlways showin, I don't care!
+two_|tDon't love nobody, it's not worthwhile,
+two_tAll alone, runnin’ wild!
