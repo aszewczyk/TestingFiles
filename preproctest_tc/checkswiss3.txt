@@ -1,14 +1,5 @@
 ﻿word! ok not ok
 word ! not ok not
-word? ok not ok
-word ? not ok not
-word: not not ok
-word : ok ok not
-word; ok not ok
-word ; not ok not
-word» ok not ok
-word » not ok not
-«word ok not ok
-« word not ok not
+wolololololo
 word % not
 word% ok
