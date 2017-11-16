@@ -1,12 +1,5 @@
-«Abc»tr
-trAbc:
-rtAbc!
-rtAbc?
-rtAbc%
-trAbc;
-rt« Abc »
-rtAbc :
-rtAbc !
-rtAbc ?
-rtAbc %
-rtAbc ;
+new«Abc»
+newAbc:
+newtea? or coffee? that is the question
+newAbc %
+newAbc ;
